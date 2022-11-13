@@ -1,0 +1,5 @@
+term.clear()
+term.setCursorPos(1,1)
+print("SBCL - Super Barebones Crappy Loader v0.1. Literally just a placeholder.")
+print("Starting the kernel...")
+shell.run("kernel.lua")
